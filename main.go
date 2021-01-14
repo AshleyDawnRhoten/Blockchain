@@ -2,8 +2,7 @@ package main
 
 import (
   "fmt"
-  "blockchain"
-)
+  "@Smashley/Blockchain#blockchain/"
 
 
 
